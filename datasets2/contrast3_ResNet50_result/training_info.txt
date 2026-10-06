@@ -1,0 +1,12 @@
+Epochs: 200
+实际训练轮数：70
+Learning Rate: 0.01
+Final Train Loss: 0.0351
+Final Val Loss: 0.0625
+Best Val Loss: 0.0569
+Best Model Epoch: 60
+早停耐心值：10
+早停阈值：0.0
+训练集图片数量：350
+验证集图片数量：75
+批次大小：8
